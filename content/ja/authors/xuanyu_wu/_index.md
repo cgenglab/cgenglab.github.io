@@ -12,20 +12,6 @@ superuser: false
 # Role/position
 role: 修士学生 (M2)
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:wxy@g.ecc.u-tokyo.ac.jp
-
-education:
-  courses:
-    - course: 創造情報学専攻
-      institution: 東京大学大学院
-      year: EST 2025
-    - course: 学士（建築学）
-      institution: 東京都立大学
-      year: 2023
-
 user_groups:
 - 修士学生
 
@@ -41,14 +27,23 @@ user_groups:
 
 ---
 
-# **Biography**
-<br>
-東京大学大学院情報理工学系研究科創造情報学専攻梅谷研究室修士一年の学生です．
+<style>
+  .responsive-iframe {
+    width: 100%;
+    height: 600px;
+  }
 
-### 趣味
-- 写真撮影
-- ビデオゲーム
+  @media (max-width: 768px) {
+    .responsive-iframe {
+      height: 400px; 
+    }
+  }
+</style>
 
-### 研究テーマ
-  - デザイン
-  - CAD
+
+<div class="iframe-container">
+  <iframe src="https://i.xwu.ch/" 
+  width="100%" height="600px" 
+  style="border: 2px solid #ccc; border-radius: 12px; ">
+  </iframe>
+</div>
