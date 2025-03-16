@@ -37,7 +37,7 @@ education:
 
 
 user_groups:
-- Master Students
+- Alumni
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,3 +61,6 @@ Xuanyu Wu is a 1st-year master student in the Dept. of Creative Informatics at t
 ### Interests
   - Procedural design
   - CAD
+  
+### Master's Thesis
+Floor Plan Optimization based on Traffic Flow

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Studnet (2nd year)
+role: Master Studnet (3rd year)
 
 
 # Short bio (displayed in user profile at end of posts)

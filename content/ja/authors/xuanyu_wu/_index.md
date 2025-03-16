@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士学生 (M2)
+role: 修士課程
 
 social:
   - icon: envelope
@@ -19,15 +19,15 @@ social:
 
 education:
   courses:
-    - course: 創造情報学専攻
-      institution: 東京大学大学院
-      year: EST 2025
+    - course: 修士
+      institution: 東京大学大学院　創造情報学専攻
+      year: 2025
     - course: 学士（建築学）
       institution: 東京都立大学
       year: 2023
 
 user_groups:
-- 修士学生
+- 過去の在籍者・訪問者
 
 
 
@@ -42,8 +42,7 @@ user_groups:
 ---
 
 # **Biography**
-<br>
-東京大学大学院情報理工学系研究科創造情報学専攻梅谷研究室修士一年の学生です．
+<!-- 東京大学大学院　情報理工学系研究科　創造情報学専攻　梅谷研究室修士一年の学生です． -->
 
 ### 趣味
 - 写真撮影
@@ -52,3 +51,6 @@ user_groups:
 ### 研究テーマ
   - デザイン
   - CAD
+  
+### 修士論文
+動線に基づく間取り図の最適化

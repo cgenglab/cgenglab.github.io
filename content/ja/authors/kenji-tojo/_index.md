@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士学生 (D2)
+role: 博士学生 (D3)
 
 
 # Short bio (displayed in user profile at end of posts)

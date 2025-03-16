@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student (5th year, special selection for professionals program, long-term completion)
+role: Ph.D Student (on a leave of absencse, 6th year, special selection for professionals program, long-term completion)
 
 
 # Short bio (displayed in user profile at end of posts)

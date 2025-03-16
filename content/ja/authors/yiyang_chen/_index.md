@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士学生 (M1)
+role: 修士学生 (M2)
 
 #social:
 #  - icon: envelope
