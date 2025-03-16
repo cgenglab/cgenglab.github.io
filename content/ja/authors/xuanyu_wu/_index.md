@@ -12,6 +12,7 @@ superuser: false
 # Role/position
 role: 修士課程
 
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,12 +42,24 @@ user_groups:
 
 ---
 
+
 # **Biography**
 <!-- 東京大学大学院　情報理工学系研究科　創造情報学専攻　梅谷研究室修士一年の学生です． -->
 
-### 趣味
-- 写真撮影
-- ビデオゲーム
+<style>
+  .responsive-iframe {
+    width: 100%;
+    height: 600px;
+  }
+
+
+  @media (max-width: 768px) {
+    .responsive-iframe {
+      height: 400px; 
+    }
+  }
+</style>
+
 
 ### 研究テーマ
   - デザイン
@@ -54,3 +67,12 @@ user_groups:
   
 ### 修士論文
 動線に基づく間取り図の最適化
+
+
+<div class="iframe-container">
+  <iframe src="https://i.xwu.ch/" 
+  width="100%" height="600px" 
+  style="border: 2px solid #ccc; border-radius: 12px; ">
+  </iframe>
+</div>
+
