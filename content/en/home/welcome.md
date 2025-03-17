@@ -22,6 +22,10 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>News</H3>
 <table>
 <tr valign='top'>	
+<td width=130px>(Jan. 2025)</td> 
+<td>Three students (Riku Toyota, Xuanyu Wu, Xuehao Yang) successfully defended their theses. Congrats!</td>
+<td></td>	
+<tr valign='top'>	
 <td width=130px>(Jan. 2024)</td> 
 <td>Five students (Yuhan Wu, Yiyi Cai, Shiyun Wang, Jiajun Han, Zeyuan He) successfully defended their theses. Congrats!</td>
 <td></td>		
