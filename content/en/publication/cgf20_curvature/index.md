@@ -5,7 +5,7 @@ authors:
 - admin
 - Takeo Igarashi
 - Tim Hoffmann
-date: "2020-9-5T00:00:00Z"
+date: "2020-09-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
