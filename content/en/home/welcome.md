@@ -21,6 +21,10 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 
 <H3>News</H3>
 <table>
+</tr><tr valign='top'>
+<td>(July. 2025)</td>
+<td><a href="publication/sgp25_greencloud/">Our paper</a> first authored by <a href="authors/kenji-tojo/">Kenji Tojo</a> won the Honorable Mention Award at SGP 2025.</td>
+<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/blob/doc/2025_sgp_honorable_award.jpeg?raw=true' width=200px></td>
 <tr valign='top'>	
 <td width=130px>(Jan. 2025)</td> 
 <td>Three students (Riku Toyota, Xuanyu Wu, Xuehao Yang) successfully defended their theses. Congrats!</td>
