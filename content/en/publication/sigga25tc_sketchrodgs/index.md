@@ -1,7 +1,7 @@
 ---
 title: "SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes"
 authors:
-- Haato Watanabe
+- haato_watanabe
 - admin
 date: "2025-10-20T00:00:00Z"
 doi: ""
@@ -22,7 +22,7 @@ publication_short: SIGGA 2025 Tech. Com.
 abstract: Physics simulation of slender elastic objects often requires discretization as a polyline. However, constructing a polyline from Gaussian splatting is challenging as Gaussian splatting lacks connectivity information and the configuration of Gaussian primitives contains much noise. This paper presents a method to extract a polyline representation of the slender part of the objects in a Gaussian splatting scene from the user’s sketching input. Our method robustly constructs a polyline mesh that represents the slender parts using the screen-space shortest path analysis that can be efficiently solved using dynamic programming. We demonstrate the effectiveness of our approach in several in-the-wild examples.
 
 # Summary. An optional shortened abstract.
-summary: ACM SIGGRAPH Asia 2025 Technical Communications
+summary: ACM SIGGRAPH Asia 2025 Technical Communications, <font color=red>Best Communications Award</font>
 
 tags:
 - Gaussian Splatting

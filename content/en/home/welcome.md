@@ -15,12 +15,16 @@ The Interactive Graphics and Engineering Laboartory is in the <a href="https://w
 <H3>Admission</H3>
 <ul>
 <li>We are recruting hardworking master and Ph.D students. Please take a look at the admission information on the <a href="https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml" target="_blank">the department's page</a>. If there is anything unclear, drop me an <a href="mailto:n.umetani@gmail.com">email</a>. </li>
-<li style="color: red;">Currently, we are not accepting research students.</li>
+<li style="color: red;">Currently, we are not accepting research students (i.e., non-degree students affiliated with a university laboratory to prepare for graduate school's entrance examinations).</li>
 </ul>
 
 
 <H3>News</H3>
 <table>
+</tr><tr valign='top'>
+<td>(Dec. 2025)</td>
+<td><a href="publication/sigga25tc_sketchrodgs/">Our paper</a> first authored by <a href="authors/haato_watanabe/">Haato Watanabe</a> won the Best Communications Award at SIGGRAPH Asi 2025.</td>
+<td width=240px align=middle><img src='https://github.com/cgenglab/cgenglab.github.io/blob/doc/sigga25tc_award.jpg?raw=true' width=200px></td>	
 </tr><tr valign='top'>
 <td>(July. 2025)</td>
 <td><a href="publication/sgp25_greencloud/">Our paper</a> first authored by <a href="authors/kenji-tojo/">Kenji Tojo</a> won the Honorable Mention Award at SGP 2025.</td>
