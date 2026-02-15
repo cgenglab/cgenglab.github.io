@@ -28,3 +28,6 @@ role: 博士学生 (D1)
 user_groups:
 - 博士学生
 ---
+
+### リンク
+<a href="https://netbeifeng.github.io/">個人のページ<a>

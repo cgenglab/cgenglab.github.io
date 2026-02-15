@@ -34,3 +34,6 @@ user_groups:
 - Doctor Students
 ---
 
+### Links
+<a href="https://netbeifeng.github.io/">Personal Website<a>
+
