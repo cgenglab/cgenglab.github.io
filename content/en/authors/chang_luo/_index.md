@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctor Student (1st year)
+role: Ph.D Student (1st year)
 
 social:
 - icon: github
