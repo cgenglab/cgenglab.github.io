@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student (2nd year)
+role: Master Course
 
 #social:
 #  - icon: envelope
@@ -27,7 +27,7 @@ role: Master Student (2nd year)
 #      year: 2023
 
 user_groups:
-- Master Students
+- Alumni
 
 
 
@@ -40,3 +40,6 @@ user_groups:
 # Set this to `[]` or comment out if you are not using People widget. -->
 
 ---
+
+### Master's Thesis
+Real-time Hair Simulation using Anisotropic Hair Mesh

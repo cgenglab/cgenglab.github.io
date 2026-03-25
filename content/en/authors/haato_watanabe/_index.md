@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student (2nd year)
+role: Doctor Student (1st year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,5 +26,8 @@ role: Master Student (2nd year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Doctor Students
 ---
+
+### Master's Thesis
+Augmenting Gaussian Splatting for High-frequency Surface Texture Reconstruction

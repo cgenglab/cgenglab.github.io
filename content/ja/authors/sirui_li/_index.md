@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士学生 (M2)
+role: 修士課程
 
 #social:
 #  - icon: envelope
@@ -27,7 +27,7 @@ role: 修士学生 (M2)
 #      year: 2023
 
 user_groups:
-- 修士学生
+- 過去の在籍者・訪問者
 
 
 
@@ -40,3 +40,5 @@ user_groups:
 # Set this to `[]` or comment out if you are not using People widget. -->
 
 ---
+### 修士論文
+オプティカルフローに基づく対話的ロトスコーピングシステム

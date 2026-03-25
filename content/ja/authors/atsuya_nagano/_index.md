@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 修士学生 (M3)
+role: 修士課程
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,6 +26,6 @@ role: 修士学生 (M3)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 修士学生
+- 過去の在籍者・訪問者
 ---
 

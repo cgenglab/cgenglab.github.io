@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士学生 (D3)
+role: 博士課程
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ role: 博士学生 (D3)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 博士学生
+- 過去の在籍者・訪問者
 ---
 
 ### リンク
@@ -34,3 +34,6 @@ user_groups:
 
 ### 修士論文
 可視性重み付きパレット抽出に基づくニューラル放射輝度場の色編集可能なポスター化
+
+### 博士論文
+ロバストな形状モデリングのための微分可能レンダリング手法の開発
