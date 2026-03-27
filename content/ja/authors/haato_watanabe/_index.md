@@ -29,5 +29,8 @@ user_groups:
 - 博士学生
 ---
 
+### リンク
+<a href="https://haato-w.github.io/my-pages/myportfolio.html">個人のページ<a>
+
 ### 修士論文
 高周波成分を持つ表面テクスチャの再構成のための Gaussian Splatting の拡張

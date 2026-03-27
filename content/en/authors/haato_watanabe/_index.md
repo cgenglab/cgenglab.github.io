@@ -29,5 +29,8 @@ user_groups:
 - Doctor Students
 ---
 
+### Links
+<a href="https://haato-w.github.io/my-pages-en/myportfolio_en.html">Personal Website<a>
+
 ### Master's Thesis
 Augmenting Gaussian Splatting for High-frequency Surface Texture Reconstruction
