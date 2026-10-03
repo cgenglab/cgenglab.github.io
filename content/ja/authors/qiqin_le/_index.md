@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 楽斉欽（Qiqin Le）
+title: 楽 斉欽（Qiqin Le）
 
 # Username (this should match the folder name)
 authors: 

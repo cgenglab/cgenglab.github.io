@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 永野　敦也
+title: 永野　敦也（Atsuya Nagano）
 
 # Username (this should match the folder name)
 authors: 
@@ -26,6 +26,6 @@ role: 修士課程
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 過去の在籍者・訪問者
+- 修士学生
 ---
 
